@@ -12,6 +12,7 @@
         display: block;
     }
     .show{
+        display:block;
         visibility: visible;
         opacity: 1;
         font-size: 1.5rem;
